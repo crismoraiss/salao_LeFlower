@@ -9,7 +9,7 @@
 <p>
 O <strong>Salão LeFlower</strong> é um sistema completo de <strong>agendamento e gestão</strong> para salões de beleza, desenvolvido com foco na <strong>experiência do cliente</strong> e na <strong>eficiência operacional</strong>.  
 A plataforma conta com uma <strong>página web institucional</strong>, além de <strong>dashboards específicos</strong> para clientes, funcionários e administradores, garantindo um <strong>controle completo</strong> sobre os serviços oferecidos.
-</p><br>
+</p>
 
 ---
 
@@ -29,7 +29,7 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
 
 ---
 
-<h2>🖥️Outras Páginas</h2><br>
+<h2>🖥️Outras Páginas</h2>
 <p><strong>📌Dashboard do Administrador:</strong>
 A administradora pode gerenciar o salão, cadastrando, editando e excluindo funcionários, além de atualizar ou desativar serviços. Também pode acessar e editar seu perfil, com um menu intuitivo para navegação.
 </p>
