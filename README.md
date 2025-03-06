@@ -42,11 +42,20 @@ A administradora pode gerenciar o salão, cadastrando, editando e excluindo func
 
 
 <p><strong>📌Dashboard do Cliente:</strong>
-O usuária pode visualizar serviços, agendar atendimentos escolhendo profissional, data e horário, confirmar detalhes antes da finalização, consultar agendamentos passados e futuros, além de editar seu perfil.</p>
+O usuário pode visualizar serviços, agendar atendimentos escolhendo profissional, data e horário, confirmar detalhes antes da finalização, consultar agendamentos passados e futuros, além de editar seu perfil.</p>
 
 
 <p align="center">
   <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashcliente.png?raw=true" alt="Dashboard do Cliente do Salão LeFlower" width="100%">
 </p>
 
+
+
+<p><strong>📌Dashboard do Funcionário:</strong>
+O funcionário pode gerenciar seus atendimentos de forma eficiente, visualizando os agendamentos recebidos, incluindo data, horário e cliente. Além de acessar seu próprio perfil e editar informações pessoais.</p>
+
+    
+<p align="center">
+  <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashfunc.png?raw=true" alt="Dashboard do Funcionário do Salão LeFlower" width="100%">
+</p>
 
