@@ -56,6 +56,6 @@ O funcionário pode gerenciar seus atendimentos de forma eficiente, visualizando
 
     
 <p align="center">
-  <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashfunc.png?raw=true" alt="Dashboard do Funcionário do Salão LeFlower" width="100%">
+  <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashfuncc.png?raw=true" alt="Dashboard do Funcionário do Salão LeFlower" width="100%">
 </p>
 
