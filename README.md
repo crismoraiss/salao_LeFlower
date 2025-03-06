@@ -26,17 +26,24 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
   <li><strong>🔍 Lupa de Acessibilidade:</strong> Implementada em todo o site para facilitar a leitura e melhorar a experiência do usuário. Atualmente, está em desenvolvimento para aprimorar sua usabilidade e oferecer uma melhor acessibilidade.</li>
 </ul>
 
----
-
-<h2>🖥️ Desenvolvimento</h2>
-<p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
 
 ---
+
+
 
 <h2>🖥️Outras Páginas</h2>
+<p><strong>📌Dashboard do Administrador:</strong>
+A administradora pode gerenciar o salão, cadastrando, editando e excluindo funcionários, além de atualizar ou desativar serviços. Também pode acessar e editar seu perfil, com um menu intuitivo para navegação.
+</p>
+
 <p align="center">
   <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashadm.png?raw=true" alt="Dashboard Administrativo do Salão LeFlower" width="100%">
 </p>
+
+
+<p><strong>📌Dashboard do Cliente:</strong>
+O usuária pode visualizar serviços, agendar atendimentos escolhendo profissional, data e horário, confirmar detalhes antes da finalização, consultar agendamentos passados e futuros, além de editar seu perfil.</p>
+
 
 <p align="center">
   <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashcliente.png?raw=true" alt="Dashboard do Cliente do Salão LeFlower" width="100%">
