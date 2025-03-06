@@ -29,7 +29,7 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
 
 ---
 
-<h2>🖥️Outras Páginas</h2>
+<h2>🖥️Outras Páginas</h2><br>
 <p><strong>📌Dashboard do Administrador:</strong>
 A administradora pode gerenciar o salão, cadastrando, editando e excluindo funcionários, além de atualizar ou desativar serviços. Também pode acessar e editar seu perfil, com um menu intuitivo para navegação.
 </p>
