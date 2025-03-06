@@ -35,6 +35,6 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
 
 <h2>🖥️Outras Páginas</h2>
 <p align="center">
-  <img src="https://github.com/crismoraiss/salao_LeFlower/blob/master/homee.png?raw=true" alt="Salão LeFlower" width="100%">
+  <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashadm.png?raw=true" alt="Salão LeFlower" width="100%">
 </p>
 
