@@ -31,3 +31,10 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
 <h2>🖥️ Desenvolvimento</h2>
 <p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
 
+---
+
+<h2>🖥️Outras Páginas</h2>
+<p align="center">
+  <img src="https://github.com/crismoraiss/salao_LeFlower/blob/master/homee.png?raw=true" alt="Salão LeFlower" width="100%">
+</p>
+
