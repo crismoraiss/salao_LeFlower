@@ -29,10 +29,6 @@ A plataforma conta com uma <strong>página web institucional</strong>, além de 
 
 ---
 
----
-
-
-
 <h2>🖥️Outras Páginas</h2>
 <p><strong>📌Dashboard do Administrador:</strong>
 A administradora pode gerenciar o salão, cadastrando, editando e excluindo funcionários, além de atualizar ou desativar serviços. Também pode acessar e editar seu perfil, com um menu intuitivo para navegação.
@@ -41,7 +37,8 @@ A administradora pode gerenciar o salão, cadastrando, editando e excluindo func
 <p align="center">
   <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashadm.png?raw=true" alt="Dashboard Administrativo do Salão LeFlower" width="100%">
 </p>
-
+<br>
+<br>
 
 <p><strong>📌Dashboard do Cliente:</strong>
 O usuário pode visualizar serviços, agendar atendimentos escolhendo profissional, data e horário, confirmar detalhes antes da finalização, consultar agendamentos passados e futuros, além de editar seu perfil.</p>
@@ -51,7 +48,8 @@ O usuário pode visualizar serviços, agendar atendimentos escolhendo profission
   <img src="https://github.com/crismoraiss/LeFlower/blob/master/dashcliente.png?raw=true" alt="Dashboard do Cliente do Salão LeFlower" width="100%">
 </p>
 
-
+<br>
+<br>
 
 <p><strong>📌Dashboard do Funcionário:</strong>
 O funcionário pode gerenciar seus atendimentos de forma eficiente, visualizando os agendamentos recebidos, incluindo data, horário e cliente. Além de acessar seu próprio perfil e editar informações pessoais.</p>
